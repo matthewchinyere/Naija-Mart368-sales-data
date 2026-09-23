@@ -1,7 +1,7 @@
 # Naija Mart360 Sales Dashboard  - Excel Project
 **Tools:** Excel (PivotTable, Slicers, Timeline, Donut, Bar, Line Charts) | 200 Orders | ** Nov 2024 - Apr 2025 **
 ## Overview
-Analyzed 200 orders generating ** ₦125.49M Revenue, ₦33.99M Profit (27.1% margin), AOV ₦627.47K ** for a Nigerian retail business selling across 5 sales channels and 7 regions.
+Analyzed 200 orders generating **₦125.49M Revenue, ₦33.99M Profit (27.1% margin), AOV ₦627.47K** for a Nigerian retail business selling across 5 sales channels and 7 regions.
 # Dashboard Features
 - **KPIs:** Total Revenue, Total Profit, Total Orders, Average Order Value
 - **Interactivity:** 4 Slicers (Region, Category, Sales Channel, Payment Channel) + 4 Timelines (Years, Quarters, Months, Days)
